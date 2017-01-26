@@ -1,5 +1,16 @@
+ul{
+    list-style: none;
+    margin: 16px 16px;
+}
+
+ul > li{
+    padding: 16px 16px;
+    height: 200px;
+    border: 1px solid white;
+}
+
 .description{
-    color: #444;
+    color: white;
     font-size: small;
 }
 
@@ -8,5 +19,5 @@
 }
 
 .featured{
-    background: lightsteelblue;
+    background:lightslategray;
 }

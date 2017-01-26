@@ -4,7 +4,7 @@ export const CARPARTS: CarPart[]= [
     {
     "id": 1,
     "name": "Tires",
-    "description": "The best tires",
+    "description": "Round, black, and they spin",
     "inStock": 5,
     "price": 99.99,
     "image": "/images/tire.jpg",
@@ -14,7 +14,7 @@ export const CARPARTS: CarPart[]= [
     {
     "id": 2,
     "name": "Shocks",
-    "description": "Stop the bouncing",
+    "description": "Stop the bouncing from all the potholes",
     "inStock": 4,
     "price": 149.00,
     "image": "/images/shocks.jpg",
@@ -24,7 +24,7 @@ export const CARPARTS: CarPart[]= [
     {
     "id": 3,
     "name": "Seats",
-    "description": "For sitting",
+    "description": "Hard to drive standing",
     "inStock": 0,
     "price": 39.49,
     "image": "/images/seat.jpg",
