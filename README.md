@@ -1,6 +1,9 @@
 # Angular2Codeschool
 ![Screenshot](screenshot.jpg "Screenshot")
 
+Part 2 of my January 2017 plan to try a few small Angular 2 Projects to see how it differs from Angular 1. This is the Accelerating Through Angular 2 Course by CodeSchool found [here](https://www.codeschool.com/courses/accelerating-through-angular-2)
+
+In addition to the base tutorial, I used the Angular CLI and ignored their styling... which was horrible 
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
